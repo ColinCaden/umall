@@ -9,7 +9,7 @@ public class Goods {
 		System.out.println("放置商品三：内衣");
 		System.out.println("放置商品四：电视");
 		System.out.println("放置商品五：书籍");
-		System.out.println("放置商品六：饮料");
+		System.out.println("放置商品六：玩具");
 	}
 	
 }
