@@ -10,6 +10,7 @@ public class Order {
 		System.out.println("订单等待发货");
 		System.out.println("订单已发货");
 		System.out.println("订单待评价");
+		System.out.println("订单已完成");
 	}
 	
 }
