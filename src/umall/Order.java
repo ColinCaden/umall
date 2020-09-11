@@ -6,6 +6,7 @@ public class Order {
 		System.out.println("创建订单");
 		System.out.println("检查用户账户是否正常");
 		System.out.println("检查用户余额是否充足");
+		System.out.println("扣除账户相应款项");
 	}
 	
 }
