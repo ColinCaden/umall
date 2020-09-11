@@ -9,6 +9,7 @@ public class Order {
 		System.out.println("扣除账户相应款项");
 		System.out.println("订单等待发货");
 		System.out.println("订单已发货");
+		System.out.println("订单待评价");
 	}
 	
 }
